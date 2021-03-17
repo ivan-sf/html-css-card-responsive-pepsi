@@ -108,7 +108,7 @@ body{
         align-items: flex-start;
     }
     .card:hover{
-        height: 95vh;
+        height: 600px;
     }
     .card .content{
         width: 100%;
@@ -119,6 +119,6 @@ body{
         margin-top: 20px;
         top: 75%;
         left: 50%;
-        height: 35vh;
+        height: 200px;
     }    
 }
